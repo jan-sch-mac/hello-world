@@ -1,4 +1,4 @@
 # hello-world
 Mein erstes Repo
 
-Versuch Jitsi addons zu schreiben
+Versuch Jitsi add-ons zu schreiben
